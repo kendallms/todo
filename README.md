@@ -1,10 +1,8 @@
-# README
+# TO DO APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails app that allows you to create todo lists. It uses Sass for styling. 
 
-Things you may want to cover:
-
+Need to update:
 * Ruby version
 
 * System dependencies
@@ -21,4 +19,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
